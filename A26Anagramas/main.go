@@ -6,8 +6,6 @@ import (
 	"strings"
 )
 
-// Crie um programa que receba duas strings informadas pelo usuário e imprima se elas são anagramas.
-
 func main() {
 	var str1, str2 string
 

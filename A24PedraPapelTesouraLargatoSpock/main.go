@@ -5,21 +5,6 @@ import (
 	"strings"
 )
 
-//➢ Pedra-papel-tesoura-lagarto-Spock é uma adaptação do JoKenPo na série The Big Bang Theory.
-//➢ Crie um programa que seja um juiz de Jokenpo (Sheldon Cooper) que dada a jogada dos dois jogadores informa o
-//resultado da partida.
-//➢ As regras são as seguintes:
-//○ Tesoura corta papel
-//○ Papel cobre pedra
-//○ Pedra esmaga lagarto
-//○ Lagarto envenena Spock
-//○ Spock esmaga (ou derrete) tesoura
-//○ Tesoura decapita lagarto
-//○ Lagarto come papel
-//○ Papel refuta Spock
-//○ Spock vaporiza pedra
-//○ Pedra amassa tesoura
-
 func main() {
 	var jogador1, jogador2 string
 

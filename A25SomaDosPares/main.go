@@ -4,9 +4,6 @@ import (
 	"fmt"
 )
 
-// Crie um programa que receda diversos números que o usuário informar e armazene em um array enquanto o usuário desejar
-// inseri-los. Depois, quando o usuário finalizar as inserções, calcule a média dos elementos informados
-
 func main() {
 	var numeros []float64
 

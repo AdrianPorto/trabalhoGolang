@@ -4,9 +4,6 @@ import (
 	"fmt"
 )
 
-// Crie um programa que calcule e apresente o valor do volume de uma caixa retangular.
-// VOLUME = COMPRIMENTO * LARGURA * ALTURA.
-
 func main() {
 	var comprimento, largura, altura, volume float64
 
