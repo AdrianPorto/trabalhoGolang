@@ -2,6 +2,9 @@
 
 ![](https://img.shields.io/badge/-ALUNOS-blueviolet?style=for-the-badge)
 
-- Adrian
+- Adrian Gustavo Porto - RA:
+  > Exercícios resolvidos:  
 - Felipe Oliveira Dos Santos Morais - RA: 1041
-- Guilherme
+  > Exercícios resolvidos: 
+- Guilherme Dias Vicentini - RA: 1390
+  > Exercícios resolvidos: A12 ao A17 e A30 ao A32
